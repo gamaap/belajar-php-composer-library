@@ -1,0 +1,19 @@
+{
+    "name": "gama/belajar-php-composer-library",
+    "description": "Library Composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gama\\BelajarPhpComposerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gama Anggadipa Pratama",
+            "email": "gamaanggadipapratama@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
