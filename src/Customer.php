@@ -1,6 +1,6 @@
 <?php
 
-namespace ComposerLibrary\Belajar;
+namespace Gama\BelajarPhpComposerLibrary;
 
 class Customer
 {
